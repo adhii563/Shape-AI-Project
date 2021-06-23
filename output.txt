@@ -1,0 +1,14 @@
+-------------------------------------------------------------
+Weather Stats for - KAYAMKULAM  || 23 Jun 2021 | 08:02:59 PM
+-------------------------------------------------------------
+Current temperature is: 25.98 deg C
+Current weather desc  : light rain
+Current Humidity      : 87 %
+Current wind speed    : 3.37 kmph
+-------------------------------------------------------------
+Weather Stats for - HYDERABAD  || 23 Jun 2021 | 08:04:39 PM
+-------------------------------------------------------------
+Current temperature is: 29.22 deg C
+Current weather desc  : haze
+Current Humidity      : 63 %
+Current wind speed    : 4.12 kmph
